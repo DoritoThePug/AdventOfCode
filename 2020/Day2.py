@@ -207,6 +207,3 @@ for expenseX in expenses:
             if expenseX + expenseY + expenseZ == 2020:
                 print(expenseX*expenseY*expenseZ)
                 break 
-        break
-    break
-break
