@@ -204,6 +204,5 @@ expenses = [
 for expenseX in expenses:
     for expenseY in expenses:
         if expenseX + expenseY == 2020:
-            print(expenseX, expenseY)
             print(expenseX*expenseY)
             break 
